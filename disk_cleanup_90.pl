@@ -1,6 +1,8 @@
 #!/usr/bin/perl
 #
 #  Report how much disk space each user is consuming.
+#  Allows user to remove files older than 90 days in other user directories.
+#
 #  version 2.0
 #
 # TODO:  maybe check more than just /home
