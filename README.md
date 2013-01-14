@@ -24,11 +24,11 @@ users used space.
 
 
 Total Number of files 
-# of files  - total number of files in user directory
+\# of files  - total number of files in user directory
 MB used     - total used space on user home dir
 
 Older than 90 Days
-# of files  - number of files in user directory over 90 days old
+\# of files  - number of files in user directory over 90 days old
 MB used     - used space on user home dir from files over 90 days old
 
 
