@@ -22,15 +22,13 @@ take to scan.
 After the program is finished scanning it will display a list of all
 users used space.
 
-
-Total Number of files 
-number of files  - total number of files in user directory
+Total Number of files  
+number of files  - total number of files in user directory  
 MB used     - total used space on user home dir
 
-Older than 90 Days
-number of files  - number of files in user directory over 90 days old
+Older than 90 Days  
+number of files  - number of files in user directory over 90 days old  
 MB used     - used space on user home dir from files over 90 days old
-
 
 The program will then display a prompt asking the user if they wish to
 delete files over 90 days old. If the user chooses to continue, they
